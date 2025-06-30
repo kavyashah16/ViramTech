@@ -1,0 +1,101 @@
+WEBSITE STRUCTURE & CONTENT:
+Header/Navigation:
+
+Logo: "Viram Tech" with tagline "Strong. Fast. Unstoppable."
+Navigation: Home, About, Services, Products, Careers, Contact
+CTA Button: "Get Started" (prominent blue)
+
+Hero Section:
+
+Headline: "Accelerate Your Business Growth with Strength-Driven Technology"
+Subheading: "Professional services designed to foster growth and success for your business within the current competitive landscape"
+Two CTA buttons: "Our Services" and "View Products"
+Hero image: Lightning bolt or rocket symbol representing speed and strength
+
+Services Section:
+
+Title: "Our Core Offerings"
+Three main service cards:
+
+Products - "Innovative Solutions" - Custom software and technology products
+Services - "Expert Consulting" - Professional services and consulting
+Talent - "Skilled Professionals" - Dedicated team members and staffing
+
+
+
+Why Choose Us Section:
+
+Our core values displayed as feature cards:
+
+Trust, Ownership & Commitment, Seeking Perfection, Curiosity, Respect, Integrity, Transparency
+
+
+Each with an icon and brief description
+
+About Section:
+
+"Founded and led by Yash Sanjay Shah"
+Company established in 2025
+Mission statement: "Our professional services are designed to foster growth and success for your business within the current competitive landscape"
+Based in Mumbai, Maharashtra
+
+Contact Section:
+Business Address:
+Viram Tech
+3rd Floor, A-304, Neptune Tower
+Pushpa Park Road, Daftary Road
+Malad East, Mumbai - 400097
+Maharashtra, India
+Contact Form: Name, Email, Company, Phone, Message
+Business Details:
+
+GST Number: 27PONPS7663D1ZZ
+Business Type: Proprietorship
+Email: contact@viramtech.com (placeholder)
+Phone: +91-XXXXXXXXXX (placeholder)
+
+Footer:
+
+Company links, Services, Legal pages
+"GST Registered Business" badge
+Copyright: "© 2025 Viram Tech. All rights reserved."
+"Proprietorship of Yash Sanjay Shah"
+
+DESIGN SPECIFICATIONS:
+Color Scheme (Docker-inspired):
+
+Primary Blue: #0db7ed
+Secondary Blue: #2496ed
+Dark Blue: #003f7f
+Background: White (#ffffff) and light gray (#f8f9fa)
+Text: Dark gray (#333333)
+Accent: Light blue (#e3f2fd)
+
+Visual Elements:
+
+Lightning bolt icon/symbol for the brand
+Mumbai skyline subtle background element
+"GST Registered" trust badge
+Professional business imagery
+Gradient backgrounds using blue shades
+Card-based layouts with subtle shadows
+Smooth hover effects and transitions
+Responsive design for all devices
+
+Trust Elements:
+
+GST registration certificate number prominently displayed
+"Established 2025"
+"Mumbai-based Technology Company"
+Professional business address display
+
+Technical Requirements:
+
+Fully responsive (mobile, tablet, desktop)
+Fast loading, SEO-friendly structure
+Modern CSS with flexbox/grid
+JavaScript for interactions
+Contact form functionality with Indian phone number format
+Mumbai timezone for any time-based elements
+
+Create this as a complete, professional website that establishes Viram Tech as a legitimate, registered business based in Mumbai, reflecting strength, speed, and technological expertise.

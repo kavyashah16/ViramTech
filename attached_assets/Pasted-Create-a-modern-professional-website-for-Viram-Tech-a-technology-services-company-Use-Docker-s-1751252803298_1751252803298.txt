@@ -1,0 +1,107 @@
+Create a modern, professional website for "Viram Tech" - a technology services company. Use Docker's color palette (deep blues #0db7ed, #2496ed, navy blues #003f7f, whites, and subtle grays) throughout the design.
+WEBSITE STRUCTURE & CONTENT:
+Header/Navigation:
+
+Logo: "Viram Tech" with tagline "Strong. Fast. Unstoppable."
+Navigation: Home, About, Services, Products, Careers, Contact
+CTA Button: "Get Started" (prominent blue)
+
+Hero Section:
+
+Headline: "Accelerate Your Business Growth with Strength-Driven Technology"
+Subheading: "Professional services designed to foster growth and success for your business within the current competitive landscape"
+Two CTA buttons: "Our Services" and "View Products"
+Hero image: Lightning bolt or rocket symbol representing speed and strength
+
+Services Section:
+
+Title: "Our Core Offerings"
+Three main service cards:
+
+Products - "Innovative Solutions" - Custom software and technology products
+Services - "Expert Consulting" - Professional services and consulting
+Talent - "Skilled Professionals" - Dedicated team members and staffing
+
+
+
+Why Choose Us Section:
+
+Our core values displayed as feature cards:
+
+Trust, Ownership & Commitment, Seeking Perfection, Curiosity, Respect, Integrity, Transparency
+
+
+Each with an icon and brief description
+
+Technology Stack Section:
+
+Showcase modern technologies we work with
+Grid layout with technology logos/icons
+Include: React, Node.js, Python, AWS, Docker, Kubernetes, etc.
+
+Client Success Section:
+
+"Trusted by Growing Businesses"
+Testimonial cards or client logos
+Statistics: Projects completed, Happy clients, Years of experience
+
+About Section:
+
+Brief company description
+Mission statement: "Our professional services are designed to foster growth and success for your business within the current competitive landscape"
+Team photo or illustration
+
+Contact Section:
+
+Contact form with fields: Name, Email, Company, Message
+Contact information
+Office address placeholder
+Social media links
+
+Footer:
+
+Company links, Services, Legal pages
+Copyright: "© 2025 Viram Tech. All rights reserved."
+
+DESIGN SPECIFICATIONS:
+Color Scheme (Docker-inspired):
+
+Primary Blue: #0db7ed
+Secondary Blue: #2496ed
+Dark Blue: #003f7f
+Background: White (#ffffff) and light gray (#f8f9fa)
+Text: Dark gray (#333333)
+Accent: Light blue (#e3f2fd)
+
+Typography:
+
+Headers: Bold, modern sans-serif
+Body: Clean, readable font
+CTA buttons: Bold text
+
+Visual Elements:
+
+Lightning bolt icon/symbol for the brand
+Gradient backgrounds using blue shades
+Card-based layouts with subtle shadows
+Smooth hover effects and transitions
+Responsive design for all devices
+
+Interactive Features:
+
+Smooth scrolling navigation
+Hover effects on buttons and cards
+Contact form with validation
+Mobile-responsive hamburger menu
+Animated elements on scroll
+
+Technical Requirements:
+
+Fully responsive (mobile, tablet, desktop)
+Fast loading
+SEO-friendly structure
+Modern CSS with flexbox/grid
+JavaScript for interactions
+Contact form functionality
+
+Create this as a complete, professional website that reflects Viram Tech's strength, speed, and technological expertise while maintaining a clean, modern aesthetic similar to Docker's design philosophy.

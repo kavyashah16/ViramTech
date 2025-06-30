@@ -25,7 +25,7 @@
   --destructive-foreground: hsl(210, 100%, 99%);
   --ring: hsl(200, 86%, 50%);
   --radius: 0.5rem;
-  
+
   /* Docker-inspired custom colors */
   --docker-blue: hsl(200, 86%, 50%);
   --docker-secondary: hsl(207, 89%, 54%);
@@ -71,31 +71,24 @@
   .docker-blue {
     color: var(--docker-blue);
   }
-  
   .bg-docker-blue {
     background-color: var(--docker-blue);
   }
-  
   .docker-secondary {
     color: var(--docker-secondary);
   }
-  
   .bg-docker-secondary {
     background-color: var(--docker-secondary);
   }
-  
   .docker-navy {
     color: var(--docker-navy);
   }
-  
   .bg-docker-navy {
     background-color: var(--docker-navy);
   }
-  
   .docker-light {
     color: var(--docker-light);
   }
-  
   .bg-docker-light {
     background-color: var(--docker-light);
   }
@@ -126,7 +119,6 @@ html {
 .hover-scale {
   transition: transform 0.2s ease-in-out;
 }
-
 .hover-scale:hover {
   transform: scale(1.05);
 }
